@@ -1,0 +1,23 @@
+body {
+  margin: 30px;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+button {
+  width: 100%;
+  position: sticky;
+  top: 0px;
+  font-size: 16px;
+  padding: 20px;
+  margin: 20px auto;
+  background-color: aqua;
+  color: navy;
+}
+
+div {
+  border-bottom: 1px solid #CCC;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
